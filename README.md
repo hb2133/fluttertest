@@ -2,6 +2,16 @@
 
 Flutter로 만든 로컬 전용 데스크톱 할 일 관리 앱이다.
 
+![Todo Desktop 할 일 목록](docs/images/todo-desktop-overview.png)
+
+## 화면 예시
+
+상태별 필터와 검색으로 필요한 할 일을 빠르게 찾고, 완료 여부와 우선순위를 한눈에 확인할 수 있다.
+
+![Todo Desktop 편집 화면](docs/images/todo-desktop-editor.png)
+
+목록에서 할 일을 선택하면 오른쪽 편집 영역에서 제목, 메모, 우선순위를 수정하거나 삭제할 수 있다.
+
 ## MVP 기능
 
 - 할 일 추가, 수정, 삭제 및 완료 전환
