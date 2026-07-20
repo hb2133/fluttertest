@@ -19,3 +19,13 @@ DisplayName: 표시 이름
 Aliases: alias-a, alias-b
 Description: 이 태그가 담당하는 작업 영역
 ```
+
+## todo_desktop
+DisplayName: Todo Desktop
+Aliases: todo, task-manager
+Description: Todo Desktop 앱의 기획, 화면, 상태 관리 및 로컬 저장 기능
+
+## flutter_desktop
+DisplayName: Flutter Desktop
+Aliases: desktop, flutter
+Description: Flutter 기반 데스크톱 앱 구현과 플랫폼 UX 작업
